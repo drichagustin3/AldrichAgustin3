@@ -1,2 +1,5 @@
 # AldrichAgustin3
-Student from New Era University
+HI! My name is Aldrich Rodolf Agustin, Drich for short
+I'm a student in New Era University
+Certification
+Skillsets
