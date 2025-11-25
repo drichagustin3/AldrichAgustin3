@@ -14,7 +14,7 @@
 ## 🛠️ Skills  
 - **Programming:** Java
 - **Databases:** SQL
-- **Tools:** Eclipse, HTML
+- **Tools:** Eclipse, HTML, IBM Cloud DB2
 
 ## ☏ Convinced Already?  
 - **Email:** drichagustin.3@gmail.com
